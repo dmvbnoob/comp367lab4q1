@@ -17,7 +17,7 @@ jobs:
       - task: UseDotNet@2
         inputs:
           packageType: 'sdk'
-          version: '8.0'
+          version: '8.x'
       - script: dotnet build
         displayName: 'Build Solution'
       - script: dotnet pack --configuration Release -o $(Build.ArtifactStagingDirectory)
