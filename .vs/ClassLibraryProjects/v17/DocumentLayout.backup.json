@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{055D13C8-732C-4C8E-BBE2-793ED201A222}|ShowCase\\ShowCase.csproj|c:\\mac\\home\\documents\\comp367\\lab4\\lab4q1\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{055D13C8-732C-4C8E-BBE2-793ED201A222}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{055D13C8-732C-4C8E-BBE2-793ED201A222}|ShowCase\\ShowCase.csproj|c:\\mac\\home\\documents\\comp367\\lab4\\lab4q1\\classlibraryprojects\\showcase\\nuget.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{055D13C8-732C-4C8E-BBE2-793ED201A222}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\nuget.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23E9112B-2B42-4FFA-8928-A0E1A69610BA}|StringLibrary\\StringLibrary.csproj|c:\\mac\\home\\documents\\comp367\\lab4\\lab4q1\\classlibraryprojects\\stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{23E9112B-2B42-4FFA-8928-A0E1A69610BA}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{055D13C8-732C-4C8E-BBE2-793ED201A222}|ShowCase\\ShowCase.csproj|c:\\mac\\home\\documents\\comp367\\lab4\\lab4q1\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055D13C8-732C-4C8E-BBE2-793ED201A222}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23E9112B-2B42-4FFA-8928-A0E1A69610BA}|StringLibrary\\StringLibrary.csproj|c:\\mac\\home\\documents\\comp367\\lab4\\lab4q1\\classlibraryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,25 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StringLibrary",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
-              "RelativeDocumentMoniker": "StringLibrary\\StringLibrary.csproj",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
-              "RelativeToolTip": "StringLibrary\\StringLibrary.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-06T01:18:34.416Z",
+              "DocumentIndex": 0,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\ShowCase\\nuget.config",
+              "RelativeDocumentMoniker": "ShowCase\\nuget.config",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\ShowCase\\nuget.config",
+              "RelativeToolTip": "ShowCase\\nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-06T02:49:46.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\ShowCase\\Program.cs",
               "RelativeDocumentMoniker": "ShowCase\\Program.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\ShowCase\\Program.cs",
               "RelativeToolTip": "ShowCase\\Program.cs",
-              "ViewState": "AgIAAAAAAACAmZmZmRkmwAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAmJmZmZkKwBQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T22:27:39.705Z",
               "EditorCaption": ""
@@ -69,9 +70,10 @@
               "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
               "RelativeToolTip": "StringLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:21:40.746Z"
+              "WhenOpened": "2025-04-05T22:21:40.746Z",
+              "EditorCaption": ""
             }
           ]
         }
