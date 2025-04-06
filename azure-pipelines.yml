@@ -27,8 +27,5 @@ jobs:
           targetPath: '$(Build.ArtifactStagingDirectory)'
           artifact: 'nuget'
           publishLocation: 'Pipeline'
-      - task: NuGetCommand@2
-        inputs:
-          command: 'push'
-          packagesToPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
-          publishVstsFeed: 'comp367lab4q1-feed'
+      - script: dotnet nuget push $(Build.ArtifactStagingDirectory)/*.nupkg --source "https://pkgs.dev.azure.com/dbrar25/Comp367Lab4Q1/_packaging/comp367lab4q1-feed/nuget/v3/index.json" --api-key "anykey" --skip-duplicate
+        displayName: 'Push NuGet Package'
