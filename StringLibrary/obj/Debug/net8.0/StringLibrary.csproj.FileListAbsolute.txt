@@ -1,0 +1,11 @@
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
