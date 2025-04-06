@@ -9,3 +9,4 @@ C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj
 C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
 C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
 C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
+C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json

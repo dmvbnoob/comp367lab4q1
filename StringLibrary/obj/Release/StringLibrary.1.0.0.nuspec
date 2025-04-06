@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StringLibrary</id>
+    <version>1.0.0</version>
+    <authors>StringLibrary</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="556777200ad7e16b03ab31362b27f4ba7b198015" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Mac\Home\Documents\COMP367\Lab4\Lab4Q1\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.dll" target="lib\net8.0\StringLibrary.dll" />
+  </files>
+</package>
