@@ -7,9 +7,9 @@ trigger:
 - main
 
 pool:
-  name: Default
+  name: comp367-mac
   demands:
-    - agent.name -equals self-hosted
+    - agent.name -equals MacBookPro
 
 jobs:
   - job: Build

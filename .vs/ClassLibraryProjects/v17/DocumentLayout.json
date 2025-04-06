@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{055D13C8-732C-4C8E-BBE2-793ED201A222}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{23E9112B-2B42-4FFA-8928-A0E1A69610BA}|StringLibrary\\StringLibrary.csproj|c:\\mac\\home\\documents\\comp367\\lab4\\lab4q1\\classlibraryprojects\\stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{23E9112B-2B42-4FFA-8928-A0E1A69610BA}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\stringlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23E9112B-2B42-4FFA-8928-A0E1A69610BA}|StringLibrary\\StringLibrary.csproj|c:\\mac\\home\\documents\\comp367\\lab4\\lab4q1\\classlibraryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23E9112B-2B42-4FFA-8928-A0E1A69610BA}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringLibrary",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+              "RelativeDocumentMoniker": "StringLibrary\\StringLibrary.csproj",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+              "RelativeToolTip": "StringLibrary\\StringLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T01:18:34.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -47,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\COMP367\\Lab4\\Lab4Q1\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
               "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
@@ -55,8 +71,7 @@
               "RelativeToolTip": "StringLibrary\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:21:40.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T22:21:40.746Z"
             }
           ]
         }
